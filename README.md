@@ -9,5 +9,5 @@
   <div>
     <a href="https://beacons.ai/JonathanBDias">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanBDias&show_icons=true&theme=dark&include_all_commits&cont_private_true"/>
-      <img height="180em" src=""/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanBDias&layout=compact&langs_count=16&theme=dark"/>
   </div>
