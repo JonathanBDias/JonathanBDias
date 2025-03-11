@@ -1,8 +1,8 @@
 ## Olá! Eu sou Jonathan Braian 👋
 
 - 🌱 Estudante de Ciência da Computação na Universidade Federal de São Carlos (UFSCar)
-- 🔭 Estou em busca de um Estágio na área de Desenvolimento de Software ou Ciência de Dados
-- 😄 Minhas áreas favoritas são as de Banco de Dados e Desenvolvimento Web
+- 🔭 Estagiário na área de Desenvolimento de Software na Triplos Tecnologia e Sistemas LTDA
+- 😄 Minhas áreas favoritas são as de Banco de Dados e Desenvolvimento de Software
 
   <div>
     <a href="https://beacons.ai/JonathanBDias">
