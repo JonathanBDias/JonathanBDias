@@ -26,6 +26,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![TFS](https://img.shields.io/badge/-TFS-333333?style=flat&logo=tfs&logoColor=00599C)
 
 **Ferramentas de desenvolvimento**
 
