@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Olá! Eu sou Jonathan Braian 👋
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -52,7 +50,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbdias&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbdias&layout=compact"
         alt="Github Stats"
       />
     </td>
