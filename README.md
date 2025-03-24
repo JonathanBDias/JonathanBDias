@@ -21,6 +21,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Crystal Reports](https://img.shields.io/badge/-Crystal%20Reports-333333?style=flat&logo=c-reports&logoColor=00599C)
+![Report Builder](https://img.shields.io/badge/-Report%20Builder-333333?style=flat&logo=c-sharp&logoColor=00599C)
 
 **DevOps**
 
